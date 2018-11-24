@@ -10,7 +10,7 @@ Denkanstöße:
 1. Finde den kleinsten Schlüssel deiner Reihe und vertausche ihn mit dem ersten Wert
 
 
-2. Finde erneut den kleinsten Schlüssel der übrigen Reihe und vertausche ihn mi dem zweiten Wert
+2. Finde erneut den kleinsten Schlüssel der übrigen Reihe und vertausche ihn mit dem zweiten Wert
 
 
 3. Finde erneut den kleinsten Schlüssel der übrigen Reihe und vertausche ihn mit dem dritten Wert
