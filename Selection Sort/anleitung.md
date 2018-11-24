@@ -1,4 +1,4 @@
-:w
+
 ** Anleitung zur Erstellung eines Selection Sorts **
 
 
